@@ -1,0 +1,19 @@
+5 4
+1
+1
+bosco
+1
+2
+bosco
+1
+3
+bosco
+2
+1
+montagna
+3
+2
+pianura
+1
+3
+bosco
